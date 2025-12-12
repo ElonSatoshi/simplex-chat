@@ -49,7 +49,8 @@ Open a group and tap on group's name to view members list, there you can tap on 
 
 - Observer: can only read messages (and delete or mark deleted the messages they sent before their role was changed).
 - Member: can send messages and delete own messages.
-- Admin: Same as member, but can delete the messages of others and remove members from the group.
+- Moderator: Same as member, but can delete the messages of others and block members for all.
+- Admin: Same as moderator, but can remove members from the group and create a group link.
 - Owner: Same as admin, but can change group preferences.
 
 ## Link to join group
